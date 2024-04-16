@@ -1,0 +1,27 @@
+SECTION 1
+What is web development.
+Web development is the process of building, creating and maintaining website.
+
+why is it essential in the context of the internet.
+-It makes research work easy
+-It gives access to advertise merchandise online and also allow people to buy and sell from the comfort of their homes 
+
+Have you heard of HTML? YES
+HTML stand for hypertext markup language
+
+It is used in the creating a web page by using the HTML tags 
+
+
+SECTION 2
+ Are you familiar with CSS. NO
+
+SECTION 3
+ Have you heard of JavaScript? NO
+
+SECTION 4
+ Are you familiar with React and Node.js? NO
+
+SECTION 5
+ Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+
+Want to learn because at least 60% of jobs in the labour market is focussed on web development and also love the to know more about it after it was introduced back in the school by my lecturer.
